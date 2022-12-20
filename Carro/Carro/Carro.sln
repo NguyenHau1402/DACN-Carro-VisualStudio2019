@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Carro", "Carro\Carro.csproj", "{20B0C7D4-197E-402D-A288-BF42CD1D76C4}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "AI Setup Caro", "AI Setup Caro\AI Setup Caro.aiproj", "{EFC6CB5A-4643-4311-AD5E-26BCFC636B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B0C7D4-197E-402D-A288-BF42CD1D76C4}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{20B0C7D4-197E-402D-A288-BF42CD1D76C4}.All|Any CPU.Build.0 = Release|Any CPU
+		{20B0C7D4-197E-402D-A288-BF42CD1D76C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B0C7D4-197E-402D-A288-BF42CD1D76C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B0C7D4-197E-402D-A288-BF42CD1D76C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B0C7D4-197E-402D-A288-BF42CD1D76C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC6CB5A-4643-4311-AD5E-26BCFC636B17}.All|Any CPU.ActiveCfg = DefaultBuild
+		{EFC6CB5A-4643-4311-AD5E-26BCFC636B17}.All|Any CPU.Build.0 = DefaultBuild
+		{EFC6CB5A-4643-4311-AD5E-26BCFC636B17}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{EFC6CB5A-4643-4311-AD5E-26BCFC636B17}.Debug|Any CPU.Build.0 = DefaultBuild
+		{EFC6CB5A-4643-4311-AD5E-26BCFC636B17}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{EFC6CB5A-4643-4311-AD5E-26BCFC636B17}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C505E9-858E-4676-B2E7-41922D9F814D}
+	EndGlobalSection
+EndGlobal
